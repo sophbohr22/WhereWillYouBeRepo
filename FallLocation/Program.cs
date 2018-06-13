@@ -6,7 +6,7 @@ namespace FallLocation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Sophie will be at UW-Madison");
         }
     }
 }
